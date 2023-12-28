@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/EricSousa02/FrontendMentor-qrcode)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-qrcode-omega.vercel.app/)
+- Solution URL: [Repository](https://github.com/EricSousa02/FrontendMentor-qrcode)
+- Live Site URL: [Deploy](https://frontend-mentor-qrcode-omega.vercel.app/)
 
 ## My process
 
